@@ -1,3 +1,4 @@
+//wap to check wheather a given keyword is c keyword or not.
 #include <stdio.h>
 #include <string.h>
 
