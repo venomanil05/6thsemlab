@@ -1,3 +1,4 @@
+//title for the lab is implementation of basic lexical analysis techniques in c.
 //Write a C program to identify whether given line is comment or not
 #include <stdio.h>
 #include <string.h>
