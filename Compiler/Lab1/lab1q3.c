@@ -1,3 +1,4 @@
+//WAP to check wheather an operator is valid or not.
 #include <stdio.h>
 #include <string.h>
 
