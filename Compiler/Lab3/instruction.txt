@@ -1,1 +1,62 @@
+# Lex/Flex Programs
 
+This repository contains Lex/Flex programs for Compiler Design practicals.
+
+## Requirements
+
+* Windows
+* GCC / MinGW
+* WinFlexBison
+
+Check installation:
+
+```powershell
+gcc --version
+win_flex --version
+```
+
+## How to Run
+
+Open PowerShell in the folder containing the `.l` file.
+
+For example, to run `q1.l`:
+
+```powershell
+win_flex q1.l
+gcc lex.yy.c -o q1.exe
+.\q1.exe
+```
+
+For `q2.l`:
+
+```powershell
+win_flex q2.l
+gcc lex.yy.c -o q2.exe
+.\q2.exe
+```
+
+Use the same steps for other `.l` files.
+
+## Process
+
+```text
+q1.l
+ ↓
+win_flex
+ ↓
+lex.yy.c
+ ↓
+gcc
+ ↓
+q1.exe
+ ↓
+Run
+```
+
+**Basic command:**
+
+```powershell
+win_flex filename.l
+gcc lex.yy.c -o filename.exe
+.\filename.exe
+```
