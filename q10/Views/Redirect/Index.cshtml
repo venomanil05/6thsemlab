@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Open Redirect Protection";
+}
+
+<h1>Open Redirect Protection</h1>
+
+<p>
+    Enter a local URL to test the secure redirect.
+</p>
+
+<form method="post" action="/Redirect/Go">
+
+    <label>Return URL:</label>
+
+    <input type="text"
+           name="returnUrl"
+           placeholder="/Home/Privacy"
+           style="width:300px;" />
+
+    <br />
+    <br />
+
+    <button type="submit">
+        Redirect
+    </button>
+
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:red;">
+        @ViewBag.Message
+    </p>
+}

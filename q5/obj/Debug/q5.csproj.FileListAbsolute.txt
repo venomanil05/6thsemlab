@@ -1,0 +1,7 @@
+E:\csharp\q5\bin\Debug\q5.exe.config
+E:\csharp\q5\bin\Debug\q5.exe
+E:\csharp\q5\bin\Debug\q5.pdb
+E:\csharp\q5\obj\Debug\q5.csproj.AssemblyReference.cache
+E:\csharp\q5\obj\Debug\q5.csproj.CoreCompileInputs.cache
+E:\csharp\q5\obj\Debug\q5.exe
+E:\csharp\q5\obj\Debug\q5.pdb

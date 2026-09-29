@@ -1,0 +1,7 @@
+E:\csharp\q2\bin\Debug\q2.exe.config
+E:\csharp\q2\bin\Debug\q2.exe
+E:\csharp\q2\bin\Debug\q2.pdb
+E:\csharp\q2\obj\Debug\q2.csproj.AssemblyReference.cache
+E:\csharp\q2\obj\Debug\q2.csproj.CoreCompileInputs.cache
+E:\csharp\q2\obj\Debug\q2.exe
+E:\csharp\q2\obj\Debug\q2.pdb

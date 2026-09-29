@@ -1,0 +1,7 @@
+E:\csharp\q3\bin\Debug\q3.exe.config
+E:\csharp\q3\bin\Debug\q3.exe
+E:\csharp\q3\bin\Debug\q3.pdb
+E:\csharp\q3\obj\Debug\q3.csproj.AssemblyReference.cache
+E:\csharp\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+E:\csharp\q3\obj\Debug\q3.exe
+E:\csharp\q3\obj\Debug\q3.pdb

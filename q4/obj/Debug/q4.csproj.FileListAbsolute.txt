@@ -1,0 +1,7 @@
+E:\csharp\q4\bin\Debug\q4.exe.config
+E:\csharp\q4\bin\Debug\q4.exe
+E:\csharp\q4\bin\Debug\q4.pdb
+E:\csharp\q4\obj\Debug\q4.csproj.AssemblyReference.cache
+E:\csharp\q4\obj\Debug\q4.csproj.CoreCompileInputs.cache
+E:\csharp\q4\obj\Debug\q4.exe
+E:\csharp\q4\obj\Debug\q4.pdb

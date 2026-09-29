@@ -1,0 +1,28 @@
+﻿@model List<q7.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h1>Student List</h1>
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>College</th>
+    </tr>
+
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.Id</td>
+            <td>@student.Name</td>
+            <td>@student.Address</td>
+            <td>@student.College</td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\csharp\\q10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|e:\\csharp\\q10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|e:\\csharp\\q10\\views\\redirect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|solutionrelative:views\\redirect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|e:\\csharp\\q10\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A267826-3F2B-4340-8654-8AD865221023}|q10.csproj|solutionrelative:controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\csharp\\q10\\Views\\Redirect\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Redirect\\Index.cshtml",
+              "ToolTip": "E:\\csharp\\q10\\Views\\Redirect\\Index.cshtml",
+              "RelativeToolTip": "Views\\Redirect\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T05:27:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "E:\\csharp\\q10\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RedirectController.cs",
+              "ToolTip": "E:\\csharp\\q10\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:26:17.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\q10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\csharp\\q10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:25:14.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
